@@ -17,8 +17,6 @@ jobs:
       # Setup nodeJs
       - name: Setup Node.js
         uses: actions/setup-node@v1
-        with:
-          node-version: "20.x"
 
       #Install Yarn
       - name: Install Yarn
