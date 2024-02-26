@@ -26,4 +26,4 @@ jobs:
 
       #Run tests
       - name: Run tests
-        run: yarn tests
+        run: yarn test
